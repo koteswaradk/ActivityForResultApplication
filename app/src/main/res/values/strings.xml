@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">StartActivityForResult Demo</string>
+    <string name="resultMessage">Result Message</string>
+    <string name="getResult">Get Result</string>
+    <string name="enterMessage">Enter Your Message</string>
+    <string name="seciindActivityTitle">Message enetered here will be displayed in MainActivity</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="secondActivity">Second Activity</string>
+</resources>
